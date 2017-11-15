@@ -1,8 +1,28 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "employee_name": "Chelsey Dietrich",
+      "employee_phone": "250-969-1235",
+      "emerg_contact_name": "Test1",
+      "emerg_contact_phone": "250-945-2312"
+    },
+    {
+      "employee_name": "Ervin Howell",
+      "employee_phone": "250-922-4565",
+      "emerg_contact_name": "Test1",
+      "emerg_contact_phone": "250-777-2312"
+    },
+    {
+      "employee_name": "Kurtis Weissnat",
+      "employee_phone": "250-999-1200",
+      "emerg_contact_name": "Test1",
+      "emerg_contact_phone": "250-234-2312"
+    },
+    {
+      "employee_name": "Nicholas Runolfsdottir V",
+      "employee_phone": "778-732-1565",
+      "emerg_contact_name": "Test1",
+      "emerg_contact_phone": "250-123-2312"
     }
   ],
   "profile": {
